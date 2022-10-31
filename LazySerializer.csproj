@@ -8,6 +8,10 @@
     <Title>LazySerializer</Title>
     <Authors>Florian Dussault</Authors>
     <Copyright>Copyright 2022</Copyright>
+    <Description>Just a simple serialization help class.</Description>
+    <PackageProjectUrl>https://github.com/FlorianDussault/LazySerializer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/FlorianDussault/LazySerializer</RepositoryUrl>
+    <PackageTags>Serializer;Serialization</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard2.1|AnyCPU'">
