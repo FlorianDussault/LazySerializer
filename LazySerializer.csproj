@@ -12,6 +12,7 @@
     <PackageProjectUrl>https://github.com/FlorianDussault/LazySerializer</PackageProjectUrl>
     <RepositoryUrl>https://github.com/FlorianDussault/LazySerializer</RepositoryUrl>
     <PackageTags>Serializer;Serialization</PackageTags>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard2.1|AnyCPU'">
